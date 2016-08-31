@@ -1,2 +1,3 @@
 # hello-world
-First Exercise to GitHub
+
+I'm Alvin. I teach and program for fun.
